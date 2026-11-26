@@ -1,0 +1,33 @@
+{
+  "id": "jotty",
+  "recipe": "jotty-v1",
+  "version": "1.30.0.1",
+  "publisher": "Lu Yifei",
+  "help": "https://github.com/LuYifei-TOS-Apps/tos-jotty#readme",
+  "official": "https://github.com/fccview/jotty",
+  "platforms": ["x86_64", "aarch64"],
+  "category": ["Utilities"],
+  "languages": {
+    "en-us": {
+      "name": "Jotty",
+      "auth": "fccview and contributors",
+      "descript": "Create and organize Markdown notes and checklists stored on your NAS.",
+      "important": "Use TCP port 19155 on a trusted network. Set up the first administrator immediately after installing.",
+      "release_note": "Initial TOS package for Jotty 1.30.0."
+    },
+    "zh-cn": {
+      "name": "Jotty",
+      "auth": "fccview 及贡献者",
+      "descript": "在 NAS 上创建和管理 Markdown 笔记与检查清单。",
+      "important": "请在可信网络使用 TCP 19155 端口，安装后立即创建第一个管理员。",
+      "release_note": "Jotty 1.30.0 的首个 TOS 安装包。"
+    },
+    "zh-hk": {
+      "name": "Jotty",
+      "auth": "fccview 及貢獻者",
+      "descript": "在 NAS 上建立和管理 Markdown 筆記與檢查清單。",
+      "important": "請在可信網絡使用 TCP 19155 連接埠，安裝後立即建立第一個管理員。",
+      "release_note": "Jotty 1.30.0 的首個 TOS 安裝套件。"
+    }
+  }
+}
